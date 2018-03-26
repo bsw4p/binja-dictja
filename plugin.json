@@ -1,0 +1,14 @@
+{
+	"plugin": {
+		"name": "dictja",
+		"type": ["ui"],
+		"api": "python2",
+		"description": "Create a fuzzing dictionary out of found constants",
+		"longdescription": "Create a fuzzing dictionary out of found constants. Dictonary can be used for AFL and Libfuzzer",
+		"license": {
+			"name": "MIT"
+		},
+		"version": "0.0.1",
+		"author": "Benedikt Schmotzle"
+	}
+}
